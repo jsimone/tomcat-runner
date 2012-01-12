@@ -65,7 +65,7 @@
             <appendAssemblyId>false</appendAssemblyId>
           <archive>
               <manifest>
-                  <mainClass>com.heroku.launch.Main</mainClass>
+                  <mainClass>tomcat.runner.launch.Main</mainClass>
               </manifest>
           </archive>
         </configuration>
